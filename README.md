@@ -8,7 +8,7 @@ Built with **LangChain**, **Mistral AI**, **Tavily Search**, **BeautifulSoup**, 
 
 ## 🚀 Live Demo
 
-Add your Streamlit deployment link here:
+Streamlit deployment link:
 
 ```text
 https://multi-ai-agent-system.streamlit.app/
@@ -132,7 +132,7 @@ Final Research Report
 
 * Mistral AI
 * LangChain
-* LangGraph
+* Python
 
 ### Search & Retrieval
 
