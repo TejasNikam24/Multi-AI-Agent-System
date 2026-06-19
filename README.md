@@ -286,7 +286,7 @@ GitHub:
 https://github.com/TejasNikam24
 
 LinkedIn:
-(Add your LinkedIn profile link)
+https://www.linkedin.com/in/tejasnikam24/
 
 ---
 
@@ -299,8 +299,4 @@ If you found this project useful:
 * Share feedback 💡
 
 ---
-
-## 📜 License
-
-This project is licensed under the MIT License.
 
